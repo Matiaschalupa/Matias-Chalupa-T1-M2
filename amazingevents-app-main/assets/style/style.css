@@ -1,0 +1,10 @@
+.row-stats {
+    color: #ce0808;
+    margin-top: 1 rem;
+    border: 2px solid;
+    background-color: bisque;
+}
+
+.card {
+    text-align: center;
+}
